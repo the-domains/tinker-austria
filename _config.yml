@@ -1,4 +1,3 @@
-layout_spectrum: 0.29142489726655185
 typography_spectrum: 0.24386632605455816
 color:
   brandStrength: 0.9835643521510065
@@ -11,4 +10,9 @@ color:
     - '#7E827A'
     - '#E3CDA4'
     - '#C77966'
+layout_spectrum: 0.29142489726655185
 name: Tinker Austria
+navigation:
+  - name: Tinker Austria
+    url: 'http://www.tinkeraustria.com'
+    type: external
